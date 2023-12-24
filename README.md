@@ -16,6 +16,11 @@
 - [Ethical Hacking Essentials (EHE)](https://coursera.org/verify/SX564QHSGSKL?trk=public_profile_see-credential)
 - [Introduction to TCP/IP](https://coursera.org/verify/AE4UCM7S3EZY?trk=public_profile_see-credential)
 
+<p>
+  <center>
+   <img src="https://tryhackme-badges.s3.amazonaws.com/cyber30.png" alt="TryHackMe">
+  </center>
+</p>
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="cyberthirty30 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
