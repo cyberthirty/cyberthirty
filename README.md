@@ -4,11 +4,8 @@
 
 - <b>Secure Command Line Toolbox</b>
   - [Secure Command Line Toolbox (top commands)](https://github.com/cyberthirty/Secure-Command-Line-Toolbox/blob/main/Secure%20Command%20Line%20Toolbox.md)
-- <b>Capture The Flag </b>
-  - [TryHackMe(THM)](https://tryhackme.com/p/cyber30)
 
-
-<h2>👨‍💻 Programming Projects:</h2>
+<h2>👨‍💻 Programming and Scripting Projects:</h2>
 
 - <b>Hello World</b>
   - [Hello World in Python, Golang, Rust, C++/C, Bash and Java]()
@@ -18,6 +15,16 @@
 - [IBM Cybersecurity Analyst professional](https://www.credly.com/badges/38fd0f82-7511-4864-8e00-4788ec814e17/linked_in_profile?trk=public_profile_see-credential)
 - [Ethical Hacking Essentials (EHE)](https://coursera.org/verify/SX564QHSGSKL?trk=public_profile_see-credential)
 - [Introduction to TCP/IP](https://coursera.org/verify/AE4UCM7S3EZY?trk=public_profile_see-credential)
+
+
+<h2>Cybersecurity Platform </h2>
+
+- <b>TryHackMe</b>
+  - [Check TryHackMe(THM)](https://tryhackme.com/p/cyber30)
+
+
+- <b>HackTheBox</b>
+  - [Click HackTheBox(HTB)](https://tryhackme.com/p/cyber30)
 
 <h2> 🤳 Connect with me:</h2>
 
