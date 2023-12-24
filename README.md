@@ -10,7 +10,7 @@
 - <b>Hello World</b>
   - [Hello World in Python, Golang, Rust, C++/C, Bash and Java]()
 
-<h2>🎓 Certifications</h2>
+<h2>📜  Certifications:</h2>
 
 - [IBM Cybersecurity Analyst professional](https://www.credly.com/badges/38fd0f82-7511-4864-8e00-4788ec814e17/linked_in_profile?trk=public_profile_see-credential)
 - [Ethical Hacking Essentials (EHE)](https://coursera.org/verify/SX564QHSGSKL?trk=public_profile_see-credential)
@@ -20,11 +20,9 @@
 <h2>Cybersecurity Platform </h2>
 
 - <b>TryHackMe</b>
-  - [Check TryHackMe(THM)](https://tryhackme.com/p/cyber30)
-
-
+  - [Check my TryHackMe(THM) profile](https://tryhackme.com/p/cyber30)
 - <b>HackTheBox</b>
-  - [Click HackTheBox(HTB)](https://tryhackme.com/p/cyber30)
+  - [Check my HackTheBox(HTB) profile](https://tryhackme.com/p/cyber30)
 
 <h2> 🤳 Connect with me:</h2>
 
