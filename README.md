@@ -17,7 +17,7 @@
 - [Introduction to TCP/IP](https://coursera.org/verify/AE4UCM7S3EZY?trk=public_profile_see-credential)
 
 
-<h2>Cybersecurity Platform </h2>
+<h2>Cybersecurity Platforms: </h2>
 
 - <b>TryHackMe</b>
   - [Check my TryHackMe(THM) profile](https://tryhackme.com/p/cyber30)
