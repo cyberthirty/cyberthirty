@@ -1,4 +1,29 @@
-### Hi there 👋
+<h1>Hi, I'm Lucky! </h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Cybersecurity Toolbox</b>
+  - [Cybersecurity Toolbox (top commands)](https://github.com/cyberthirty/cybersecurity/blob/main/commandcheatsheet.md)
+
+<h2>👨‍💻 Programming Projects:</h2>
+
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)]()
+
+
+<h2>🎓 Certifications</h2>
+
+- [IBM Cybersecurity Analyst professional](https://www.credly.com/badges/38fd0f82-7511-4864-8e00-4788ec814e17/linked_in_profile?trk=public_profile_see-credential)
+- [Ethical Hacking Essentials (EHE)](https://coursera.org/verify/SX564QHSGSKL?trk=public_profile_see-credential)
+- [Introduction to TCP/IP](https://coursera.org/verify/AE4UCM7S3EZY?trk=public_profile_see-credential)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Cyber30 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Cyber30 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[twitter]: https://twitter.com/cyber30
+[linkedin]: https://linkedin.com/in/cyber30
 
 <!--
 **cyberthirty/cyberthirty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
