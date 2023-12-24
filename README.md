@@ -2,14 +2,13 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Cybersecurity Toolbox</b>
-  - [Cybersecurity Toolbox (top commands)](https://github.com/cyberthirty/cybersecurity/blob/main/commandcheatsheet.md)
+- <b>Secure Command Line Toolbox</b>
+  - [Secure Command Line Toolbox (top commands)](https://github.com/cyberthirty/Secure-Command-Line-Toolbox/blob/main/Secure%20Command%20Line%20Toolbox.md)
 
 <h2>👨‍💻 Programming Projects:</h2>
 
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)]()
-
+- <b>Hello World</b>
+  - [Hello World in Python, Golang, Rust, C++/C, Bash and Java]()
 
 <h2>🎓 Certifications</h2>
 
