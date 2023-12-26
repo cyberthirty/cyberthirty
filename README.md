@@ -27,7 +27,7 @@
 - <b>TryHackMe</b>
   - [Check my TryHackMe(THM) profile](https://tryhackme.com/p/cyber30)
 - <b>HackTheBox</b>
-  - [Check my HackTheBox(HTB) profile](https://tryhackme.com/p/cyber30)
+  - [Check my HackTheBox(HTB) profile](https://app.hackthebox.com/profile/1751803)
 
 <h2> 🤳 Connect with me:</h2>
 
