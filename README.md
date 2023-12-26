@@ -8,7 +8,7 @@
 <h2>👨‍💻 Programming and Scripting Projects:</h2>
 
 - <b>Hello World</b>
-  - [Hello World in Python, Golang, Rust, C++/C, Bash and Java]()
+  - [Hello World (Bash, Powershell ,etc)](https://github.com/cyberthirty/Hello-World)
 
 <h2>📜  Certifications:</h2>
 
