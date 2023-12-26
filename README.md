@@ -1,16 +1,18 @@
-<h1>Hi, I'm Lucky! </h1>
-<h1>I'm currently working on <a href="https://github.com/cyberthirty/SSL-Certificate-Checker">SSL Certificate Checker<a></a></h1>
+<h1>Hi, I'm Lucky! 👋 </h1>
 
+
+- 🔭 I’m currently working on [SSL Certificate Checker](https://github.com/cyberthirty/SSL-Certificate-Checker) project
+  
 <h2>🛡️ Cybersecurity Projects:</h2>
 
 - <b>Secure Command Line Toolbox</b>
-  - [Secure Command Line Toolbox (top commands)](https://github.com/cyberthirty/Secure-Command-Line-Toolbox/blob/main/Secure%20Command%20Line%20Toolbox.md)
+  - [Secure Command Line Toolbox](https://github.com/cyberthirty/Secure-Command-Line-Toolbox/blob/main/Secure%20Command%20Line%20Toolbox.md)
 
 <h2>💻 Programming and Scripting Projects:</h2>
 
 - <b>Hello World</b>
-  - [Hello World (Bash, Powershell, etc.)](https://github.com/cyberthirty/Hello-World)
-  - [SSL Certificate Checker ( Golang)](https://github.com/cyberthirty/SSL-Certificate-Checker)
+  - [Hello World eg.Bash, Powershell, etc.](https://github.com/cyberthirty/Hello-World)
+  - [SSL Certificate Checker in Golang](https://github.com/cyberthirty/SSL-Certificate-Checker)
 
 <h2>📜 Certifications:</h2>
 
