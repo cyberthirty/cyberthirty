@@ -1,23 +1,24 @@
 <h1>Hi, I'm Lucky! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>🛡️ Cybersecurity Projects:</h2>
 
 - <b>Secure Command Line Toolbox</b>
   - [Secure Command Line Toolbox (top commands)](https://github.com/cyberthirty/Secure-Command-Line-Toolbox/blob/main/Secure%20Command%20Line%20Toolbox.md)
 
-<h2>👨‍💻 Programming and Scripting Projects:</h2>
+<h2>💻 Programming and Scripting Projects:</h2>
 
 - <b>Hello World</b>
-  - [Hello World (Bash, Powershell, etc)](https://github.com/cyberthirty/Hello-World)
+  - [Hello World (Bash, Powershell, etc.)](https://github.com/cyberthirty/Hello-World)
+  - [SSL Certificate Checker ( Golang)](https://github.com/cyberthirty/SSL-Certificate-Checker)
 
-<h2>📜  Certifications:</h2>
+<h2>📜 Certifications:</h2>
 
 - [IBM Cybersecurity Analyst professional](https://www.credly.com/badges/38fd0f82-7511-4864-8e00-4788ec814e17/linked_in_profile?trk=public_profile_see-credential)
 - [Ethical Hacking Essentials (EHE)](https://coursera.org/verify/SX564QHSGSKL?trk=public_profile_see-credential)
 - [Introduction to TCP/IP](https://coursera.org/verify/AE4UCM7S3EZY?trk=public_profile_see-credential)
 
 
-<h2>Cybersecurity Platforms: </h2>
+<h2>🔐 Cybersecurity Platforms: </h2>
 
 - <b>TryHackMe</b>
   - [Check my TryHackMe(THM) profile](https://tryhackme.com/p/cyber30)
