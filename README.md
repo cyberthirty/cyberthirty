@@ -1,35 +1,36 @@
-<h1>Hi, I'm Lucky! 👋 </h1>
+## Hi, I'm Lucky! 👋 
 
-
-- 🔭 I’m currently working on [SSL Certificate Checker](https://github.com/cyberthirty/SSL-Certificate-Checker) project
   
-<h2>🛡️ Cybersecurity Projects:</h2>
+## Cybersecurity Projects:
 
-- <b>Secure Command Line Toolbox</b>
-  - [Secure Command Line Toolbox](https://github.com/cyberthirty/Secure-Command-Line-Toolbox/blob/main/Secure%20Command%20Line%20Toolbox.md)
+- **CommandLine**
+  - [Linux and Windows Commands](https://github.com/cyberthirty/Secure-Command-Line-Toolbox/blob/main/Secure%20Command%20Line%20Toolbox.md)
+- **How to set up home lab**
+  -[Install kali in VirtualBox](https://cyberthirty.github.io/installingkali.html) 
 
-<h2>💻 Programming and Scripting Projects:</h2>
+## Programming and Scripting Projects:
 
-- <b>Hello World</b>
-  - [Hello World eg.Bash, Powershell, etc.](https://github.com/cyberthirty/Hello-World)
-- <b>Tools</b>
+- **Hello World**
+  - [Hello World](https://github.com/cyberthirty/Hello-World)
+- **Scripts**
   - [SSL Certificate Checker in Golang](https://github.com/cyberthirty/SSL-Certificate-Checker)
+  - [Wi-Fi Password Stealer](https://github.com/cyberthirty/Password-stealer)
 
-<h2>📜 Certifications:</h2>
+## Certifications:
 
 - [IBM Cybersecurity Analyst professional](https://www.credly.com/badges/38fd0f82-7511-4864-8e00-4788ec814e17/linked_in_profile?trk=public_profile_see-credential)
 - [Ethical Hacking Essentials (EHE)](https://coursera.org/verify/SX564QHSGSKL?trk=public_profile_see-credential)
 - [Introduction to TCP/IP](https://coursera.org/verify/AE4UCM7S3EZY?trk=public_profile_see-credential)
 
 
-<h2>🔐 Cybersecurity Platforms: </h2>
+## Cybersecurity Platforms: 
 
 - <b>TryHackMe</b>
-  - [Check my TryHackMe(THM) profile](https://tryhackme.com/p/cyber30)
+  - [TryHackMe](https://tryhackme.com/p/cyber30)
 - <b>HackTheBox</b>
-  - [Check my HackTheBox(HTB) profile](https://app.hackthebox.com/profile/1751803)
+  - [HackTheBox](https://app.hackthebox.com/profile/1751803)
 
-<h2> 🤳 Connect with me:</h2>
+## 🤳 Connect with me:
 
 [<img align="left" alt="cyberthirty30 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Cyber30 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
