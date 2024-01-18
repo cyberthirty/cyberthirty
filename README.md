@@ -1,27 +1,22 @@
 ## Hi, I'm Lucky! 👋 
 
-  
-## Cybersecurity Projects:
-
-- **CommandLine**
-  - [Linux and Windows Commands](https://github.com/cyberthirty/Secure-Command-Line-Toolbox/blob/main/Secure%20Command%20Line%20Toolbox.md)
-- **How to set up home lab**
-  - [Install kali in VirtualBox](https://cyberthirty.github.io/installingkali.html) 
-
-## Programming and Scripting Projects:
-
-- **Hello World**
-  - [Hello World](https://github.com/cyberthirty/Hello-World)
-- **Scripts**
-  - [SSL Certificate Checker in Golang](https://github.com/cyberthirty/SSL-Certificate-Checker)
-  - [Wi-Fi Password Stealer](https://github.com/cyberthirty/Password-stealer)
-
 ## Certifications:
 
 - [IBM Cybersecurity Analyst professional](https://www.credly.com/badges/38fd0f82-7511-4864-8e00-4788ec814e17/linked_in_profile?trk=public_profile_see-credential)
 - [Ethical Hacking Essentials (EHE)](https://coursera.org/verify/SX564QHSGSKL?trk=public_profile_see-credential)
 - [Introduction to TCP/IP](https://coursera.org/verify/AE4UCM7S3EZY?trk=public_profile_see-credential)
+ 
+## Projects:
 
+- **CommandLine**
+  - [Linux and Windows Commands](https://github.com/cyberthirty/Secure-Command-Line-Toolbox/blob/main/Secure%20Command%20Line%20Toolbox.md)
+- **How to set up home lab**
+  - [Install kali in VirtualBox](https://cyberthirty.github.io/installingkali.html) 
+- **Hello World**
+  - [Hello World](https://github.com/cyberthirty/Hello-World)
+- **Scripts**
+  - [SSL Certificate Checker in Golang](https://github.com/cyberthirty/SSL-Certificate-Checker)
+  - [Wi-Fi Password Stealer](https://github.com/cyberthirty/Password-stealer)
 
 ## Cybersecurity Platforms: 
 
