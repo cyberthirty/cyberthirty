@@ -6,7 +6,7 @@
 - **CommandLine**
   - [Linux and Windows Commands](https://github.com/cyberthirty/Secure-Command-Line-Toolbox/blob/main/Secure%20Command%20Line%20Toolbox.md)
 - **How to set up home lab**
-  -[Install kali in VirtualBox](https://cyberthirty.github.io/installingkali.html) 
+  - [Install kali in VirtualBox](https://cyberthirty.github.io/installingkali.html) 
 
 ## Programming and Scripting Projects:
 
