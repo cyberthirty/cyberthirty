@@ -9,16 +9,16 @@ I have a strong interest in ethical hacking, penetration testing, cyberspace, an
 ### SKILLS
  **[Python 89%]()** | **[Bash 90%]()** | **[Office 85%]()** | **[Visual Basics 60%]()** | **[Powershell 64%]()** | **[C++ & C 50%]()** | **[HTML & CSS 95%]()** | **[Ruby 50%]()** | **[Rust 50%]()** | **[Golan 72%]()** | **[Java 45%]()**
 
+<br>
+
+## Certifications
+
+**[IBM Cybersecurity Analyst professional](https://www.credly.com/badges/38fd0f82-7511-4864-8e00-4788ec814e17/linked_in_profile?trk=public_profile_see-credential) | [Ethical Hacking Essentials (EHE)](https://coursera.org/verify/SX564QHSGSKL?trk=public_profile_see-credential) | [Introduction to TCP/IP](https://coursera.org/verify/AE4UCM7S3EZY?trk=public_profile_see-credential)**
+ 
 </div>
 
 <br>
 
-## Certifications:
-
-- [IBM Cybersecurity Analyst professional](https://www.credly.com/badges/38fd0f82-7511-4864-8e00-4788ec814e17/linked_in_profile?trk=public_profile_see-credential)
-- [Ethical Hacking Essentials (EHE)](https://coursera.org/verify/SX564QHSGSKL?trk=public_profile_see-credential)
-- [Introduction to TCP/IP](https://coursera.org/verify/AE4UCM7S3EZY?trk=public_profile_see-credential)
- 
 ## Projects:
 
 - **CommandLine**
