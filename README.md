@@ -31,14 +31,13 @@ I have a strong interest in ethical hacking, penetration testing, cyberspace, an
   - [SSL Certificate Checker in Golang](https://github.com/cyberthirty/SSL-Certificate-Checker)
   - [Wi-Fi Password Stealer](https://github.com/cyberthirty/Password-stealer)
 
-## Cybersecurity Platforms: 
+<div align="center">
+ 
+## Cybersecurity Platforms
 
-- <b>TryHackMe</b>
-  - [TryHackMe](https://tryhackme.com/p/cyber30)
-- <b>HackTheBox</b>
-  - [HackTheBox](https://app.hackthebox.com/profile/1751803)
+**[TryHackMe](https://tryhackme.com/p/cyber30) | [HackTheBox](https://app.hackthebox.com/profile/1751803)**
 
-## 🤳 Connect with me:
+## 🤳 Connect with me
 
 [<img align="left" alt="cyberthirty30 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Cyber30 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -46,6 +45,7 @@ I have a strong interest in ethical hacking, penetration testing, cyberspace, an
 [twitter]: https://twitter.com/cyberthirty30
 [linkedin]: https://linkedin.com/in/cyber30
 
+</div>
 <!--
 **cyberthirty/cyberthirty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
