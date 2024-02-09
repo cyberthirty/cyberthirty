@@ -33,9 +33,9 @@ I have a strong interest in ethical hacking, penetration testing, cyberspace, an
 
 <div align="center">
  
-## Cybersecurity Platforms
+## Platforms
 
-**[TryHackMe](https://tryhackme.com/p/cyber30) | [HackTheBox](https://app.hackthebox.com/profile/1751803)**
+**[TryHackMe](https://tryhackme.com/p/cyber30) | [HackTheBox](https://app.hackthebox.com/profile/1751803) | [Coursera](https://www.coursera.org/learner/lucky-ngabuh)**
 
 ## 🤳 Connect with me
 
