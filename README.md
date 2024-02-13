@@ -32,7 +32,10 @@ I have a strong interest in ethical hacking, penetration testing, cyberspace, an
   - [Wi-Fi Password Stealer](https://github.com/cyberthirty/Password-stealer)
 
 <div align="center">
- 
+
+<a href="https://github.com/cyberthirty/Hello-World" target="_blank">
+      <img alt="LUCKY NGABUH RESUME" src="https://img.shields.io/badge/>>_DOWNLOAD_MY_RESUME_<<-00abbd?style=for-the-badge" height="48" />
+
 ## Platforms
 
 **[TryHackMe](https://tryhackme.com/p/cyber30) | [HackTheBox](https://app.hackthebox.com/profile/1751803) | [Coursera](https://www.coursera.org/learner/lucky-ngabuh)**
