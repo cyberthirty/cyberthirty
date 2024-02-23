@@ -3,8 +3,8 @@
  
 # Hi, I'm Lucky! 👋 
 
-**I love Coding, Hacking, Learning and attending online courses to boot up my skills.
-I have a strong interest in ethical hacking, penetration testing, cyberspace, and coding. I am currently participating in TryHackMe, Pentesterlab, Youtube, Coursera, Portswi and Juniper to develop and learn new skills to stay updated on cyberspace.**
+**I love Coding, Hacking, Learning and attending online courses to boot up my skills.<br>
+I have a strong interest in ethical hacking, penetration testing, cyberspace, and coding.<br> I am currently participating in TryHackMe, Pentesterlab, Youtube, Coursera, portswigger and Juniper to develop and learn new skills to stay updated on cyberspace.**
 
 ### SKILLS
  **[Python 89%]()** | **[Bash 90%]()** | **[Office 85%]()** | **[Visual Basics 60%]()** | **[Powershell 64%]()** | **[C++ & C 50%]()** | **[HTML & CSS 95%]()** | **[Ruby 50%]()** | **[Rust 50%]()** | **[Golan 72%]()** | **[Java 45%]()**
