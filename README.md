@@ -1,40 +1,56 @@
-<div align="center">
- <img src="cyberthirty.png" height=80px width=500px>
- 
-# Hi, I'm Lucky! 👋 
+### Hi, I'm Lucky
 
-**I love Coding, Hacking, Learning and attending online courses to boot up my skills.<br>
-I have a strong interest in ethical hacking, penetration testing, cyberspace, and coding.<br> I am currently participating in TryHackMe, Pentesterlab, Youtube, Coursera, portswigger and Juniper to develop and learn new skills to stay updated on cyberspace.**
+#### Intro
 
-### SKILLS
- **[Python 89%]()** | **[Bash 90%]()** | **[Office 85%]()** | **[Visual Basics 60%]()** | **[Powershell 64%]()** | **[C++ & C 50%]()** | **[HTML & CSS 95%]()** | **[Ruby 50%]()** | **[Rust 50%]()** | **[Golan 72%]()** | **[Java 45%]()**
+Hi there! I'm an aspiring Cybersecurity Analyst with a passion for protecting digital assets and ensuring the integrity of information systems. With a strong foundation in programming, scripting, and cybersecurity principles, I've acquired a diverse set of skills and certifications that enable me to analyze threats, fortify defenses, and respond to incidents effectively. I'm eager to bring my hands-on experience to a dynamic team, where I can contribute to safeguarding our digital future.
 
-<br>
+### Skills
 
-## Certifications
+- **Programming & Scripting:** Proficient in Bash, Python, PowerShell, C/C++, and Java.
+- **Cybersecurity Tools:** Skilled in using Kali Linux, Metasploit, Burp Suite, Nmap, Nessus Essential, Splunk, Nitko, GitHub, VSCode, and Sublime Text.
+- **Analytical Tools:** Experience with Snyk for vulnerability scanning and Splunk for data analysis.
 
-**[IBM Cybersecurity Analyst professional](https://www.credly.com/badges/38fd0f82-7511-4864-8e00-4788ec814e17/linked_in_profile?trk=public_profile_see-credential) | [Ethical Hacking Essentials (EHE)](https://coursera.org/verify/SX564QHSGSKL?trk=public_profile_see-credential) | [Introduction to TCP/IP](https://coursera.org/verify/AE4UCM7S3EZY?trk=public_profile_see-credential)**
- 
-</div>
+### Certifications
 
-<br>
+- IBM Cybersecurity Analyst Professional Certificate
+- Ethical Hacking Essentials (EHE)
+- Introduction to TCP/IP
 
-## Projects:
+### Projects
 
-- **CommandLine**
-  - [Linux and Windows Commands](https://github.com/cyberthirty/Secure-Command-Line-Toolbox/blob/main/Secure%20Command%20Line%20Toolbox.md)
-- **How to set up home lab**
-  - [Install kali in VirtualBox](https://cyberthirty.github.io/installingkali.html) 
-- **Hello World**
-  - [Hello World](https://github.com/cyberthirty/Hello-World)
-- **Scripts**
-  - [SSL Certificate Checker in Golang](https://github.com/cyberthirty/SSL-Certificate-Checker)
-  - [Wi-Fi Password Stealer](https://github.com/cyberthirty/Password-stealer)
+1. **Hands-On Introduction to Python**
+   - A series of Python scripts demonstrating basic to intermediate coding techniques, focusing on cybersecurity applications like network scanning and encryption algorithms.
 
-<div align="center">
+2. **Snyk and Splunk Integration**
+   - A project that integrates Snyk with Splunk to automate the monitoring and reporting of vulnerabilities in software dependencies.
 
-<a href="https://github.com/cyberthirty/Hello-World" target="_blank">
-      <img alt="LUCKY NGABUH RESUME" src="https://img.shields.io/badge/>>_DOWNLOAD_MY_RESUME_<<-00abbd?style=for-the-badge" height="48" />
+3. **Password Stealer (Ethical Testing Tool)**
+   - Developed a tool for ethical penetration testing purposes that captures passwords through keylogging and phishing techniques, demonstrating the importance of robust security measures.
+
+4. **HelloWorld Security Audit**
+   - Conducted a comprehensive security audit on a simple web application, identifying vulnerabilities and implementing mitigations.
+
+5. **Subnet Calculator**
+   - Created a tool in C++ for calculating subnets quickly and accurately, enhancing network design and planning.
+
+### Contributions
+
+- **Open Source Contributions:** Actively contribute to open-source cybersecurity tools on GitHub, providing improvements and bug fixes.
+- **Community Engagement:** Participate in cybersecurity forums and discussions, offering advice and sharing knowledge with peers.
+
+### Professional Development
+
+- **Continuous Learning:** Engage in ongoing professional development through online courses, webinars, and workshops to stay updated with the latest cybersecurity trends and technologies.
+
+### How to Reach Me
+
+- **GitHub:** [CyberSecEnthusiast](#)
+- **LinkedIn:** [Your LinkedIn Profile](#) (highly recommended to create one if you haven't)
+- **Email:** your.email@example.com
+
+### Final Thoughts
+
+As someone who is self-taught, I understand the value of continuous learning, persistence, and practical experience. I am committed to leveraging my skills and certifications to contribute effectively to a cybersecurity team. I'm looking for opportunities to grow, face new challenges, and make a difference in the field of cybersecurity. Thank you for considering my application.
 
 ## Platforms
 
