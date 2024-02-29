@@ -1,9 +1,5 @@
 ### Hi, I'm Lucky
 
-#### Intro
-
-Hi there! I'm an aspiring Cybersecurity Analyst with a passion for protecting digital assets and ensuring the integrity of information systems. With a strong foundation in programming, scripting, and cybersecurity principles, I've acquired a diverse set of skills and certifications that enable me to analyze threats, fortify defenses, and respond to incidents effectively. I'm eager to bring my hands-on experience to a dynamic team, where I can contribute to safeguarding our digital future.
-
 ### Skills
 
 - **Programming & Scripting:** Proficient in Bash, Python, PowerShell, C/C++, and Java.
@@ -45,16 +41,16 @@ Hi there! I'm an aspiring Cybersecurity Analyst with a passion for protecting di
 ### How to Reach Me
 
 - **GitHub:** [CyberSecEnthusiast](#)
-- **LinkedIn:** [Your LinkedIn Profile](#) (highly recommended to create one if you haven't)
-- **Email:** your.email@example.com
-
-### Final Thoughts
-
-As someone who is self-taught, I understand the value of continuous learning, persistence, and practical experience. I am committed to leveraging my skills and certifications to contribute effectively to a cybersecurity team. I'm looking for opportunities to grow, face new challenges, and make a difference in the field of cybersecurity. Thank you for considering my application.
+- **Twitter:** [twitter](https://twitter.com/cyberthirty30)
+- **LinkedIn:** [in/cyber30](https://linkedin.com/in/cyber30)
+- **Email:** [luckyng100@gmail.com](mailto:luckyng100@gmail.com)
 
 ## Platforms
 
-**[TryHackMe](https://tryhackme.com/p/cyber30) | [HackTheBox](https://app.hackthebox.com/profile/1751803) | [Coursera](https://www.coursera.org/learner/lucky-ngabuh)**
+**TryHackMe:** [p/cyber30](https://tryhackme.com/p/cyber30)
+**HackTheBox:** [p/cyber30](https://app.hackthebox.com/profile/1751803)
+**Coursera:** [Lucky](https://www.coursera.org/learner/lucky-ngabuh)
+**credly:** [Lucky](https://www.credly.com/users/lucky-ngabuh)
 
 ## 🤳 Connect with me
 
