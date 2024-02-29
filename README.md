@@ -1,4 +1,5 @@
-# Hi, I'm Lucky! Passionate Cybersecurity Analyst
+# Hi, I'm Lucky! <br> [Programmer](https://github.com/cyberthirty), [Security Analyst](https://linkedin.com/in/cyber30)
+# Passionate Cybersecurity Analyst
 
 ### Skills
 
