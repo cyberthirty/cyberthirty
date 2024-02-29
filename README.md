@@ -23,10 +23,7 @@
 3. **Password Stealer (Ethical Testing Tool)**
    - Developed a tool for ethical penetration testing purposes that captures passwords through keylogging and phishing techniques, demonstrating the importance of robust security measures.
 
-4. **HelloWorld Security Audit**
-   - Conducted a comprehensive security audit on a simple web application, identifying vulnerabilities and implementing mitigations.
-
-5. **Subnet Calculator**
+4. **Subnet Calculator**
    - Created a tool in C++ for calculating subnets quickly and accurately, enhancing network design and planning.
 
 ### Contributions
