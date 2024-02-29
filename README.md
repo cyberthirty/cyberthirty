@@ -23,17 +23,8 @@
 3. **Password Stealer (Ethical Testing Tool)**
    - Developed a tool for ethical penetration testing purposes that captures passwords through keylogging and phishing techniques, demonstrating the importance of robust security measures.
 
-4. **Subnet Calculator**
+4. **[Subnet Calculator](https://github.com/cyberthirty/Subnet-Calculator)**
    - Created a tool in C++ for calculating subnets quickly and accurately, enhancing network design and planning.
-
-### Contributions
-
-- **Open Source Contributions:** Actively contribute to open-source cybersecurity tools on GitHub, providing improvements and bug fixes.
-- **Community Engagement:** Participate in cybersecurity forums and discussions, offering advice and sharing knowledge with peers.
-
-### Professional Development
-
-- **Continuous Learning:** Engage in ongoing professional development through online courses, webinars, and workshops to stay updated with the latest cybersecurity trends and technologies.
 
 ### How to Reach Me
 
