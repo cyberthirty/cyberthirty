@@ -15,13 +15,13 @@
 
 ### Projects
 
-1. **Hands-On Introduction to Python**
+1. **[Hands-On Introduction to Python](https://github.com/cyberthirty/hands-on-intro-to-python)**
    - A series of Python scripts demonstrating basic to intermediate coding techniques, focusing on cybersecurity applications like network scanning and encryption algorithms.
 
-2. **Snyk and Splunk Integration**
+2. **[Snyk and Splunk Integration](https://github.com/cyberthirty/snyk-and-splunk)**
    - A project that integrates Snyk with Splunk to automate the monitoring and reporting of vulnerabilities in software dependencies.
 
-3. **Password Stealer (Ethical Testing Tool)**
+3. **[Password Stealer (Ethical Testing Tool)]()**
    - Developed a tool for ethical penetration testing purposes that captures passwords through keylogging and phishing techniques, demonstrating the importance of robust security measures.
 
 4. **[Subnet Calculator](https://github.com/cyberthirty/Subnet-Calculator)**
