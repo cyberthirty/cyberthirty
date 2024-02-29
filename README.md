@@ -1,4 +1,4 @@
-# Hi, I'm LuckyH! Passionate Cybersecurity Analyst
+# Hi, I'm Lucky! Passionate Cybersecurity Analyst
 
 ### Skills
 
