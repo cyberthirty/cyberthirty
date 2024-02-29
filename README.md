@@ -37,7 +37,7 @@
 
 ### How to Reach Me
 
-- **GitHub:** [CyberSecEnthusiast](#)
+- **GitHub:** [Cyberthirty](https://github.com/cyberthirty)
 - **Twitter:** [twitter](https://twitter.com/cyberthirty30)
 - **LinkedIn:** [in/cyber30](https://linkedin.com/in/cyber30)
 - **Email:** [luckyng100@gmail.com](mailto:luckyng100@gmail.com)
