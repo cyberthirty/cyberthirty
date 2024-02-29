@@ -24,8 +24,8 @@
    - Developed a tool for ethical penetration testing purposes that captures passwords through keylogging and phishing techniques, demonstrating the importance of robust security measures.
 
 4. **[Subnet Calculator](https://github.com/cyberthirty/Subnet-Calculator)**
-   - Created a tool in C++ for calculating subnets quickly and accurately, enhancing network design and planning.
-
+   - Developed a command-line subnet calculator tool in C++ to efficiently compute network parameters, including network and broadcast addresses, valid IP range, and number of hosts per subnet, given an IP address and subnet mask
+    
 ### How to Reach Me
 
 - **GitHub:** [Cyberthirty](https://github.com/cyberthirty)
