@@ -47,10 +47,10 @@
 
 ## Platforms
 
-**TryHackMe:** [p/cyber30](https://tryhackme.com/p/cyber30)
-**HackTheBox:** [p/cyber30](https://app.hackthebox.com/profile/1751803)
-**Coursera:** [Lucky](https://www.coursera.org/learner/lucky-ngabuh)
-**credly:** [Lucky](https://www.credly.com/users/lucky-ngabuh)
+- **TryHackMe:** [p/cyber30](https://tryhackme.com/p/cyber30)
+- **HackTheBox:** [p/cyber30](https://app.hackthebox.com/profile/1751803)
+- **Coursera:** [Lucky](https://www.coursera.org/learner/lucky-ngabuh)
+- **credly:** [Lucky](https://www.credly.com/users/lucky-ngabuh)
 
 ## 🤳 Connect with me
 
