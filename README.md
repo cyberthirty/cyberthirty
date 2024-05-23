@@ -11,7 +11,7 @@ I'm cyberthirty, Programmer, Cybersecurity Analyst, Penetration Tester &  Resear
 ## Platforms & Profiles 🖥️
 - **TryHackMe:** [My Profile](https://tryhackme.com/p/cyber30)
 - **HackTheBox:** [My Profile](https://app.hackthebox.com/profile/1751803)
-- **Coursera:** [Check out my Courses](https://www.coursera.org/learner/lucky-ngabuh)
+- **Coursera:** [My Profile](https://www.coursera.org/learner/lucky-ngabuh)
 - **Credly:** [View my Badges](https://www.credly.com/users/lucky-ngabuh)
 
 ## 🤳 Social Media Links
