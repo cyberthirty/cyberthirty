@@ -1,6 +1,6 @@
 # Hi, I'm Lucky 👋
 
-I'm cyberthirty, Programmer, Cybersecurity Analyst, Penetration Tester &  Researcher from Zomba, Malawi. I specialize in cybersecurity and finance and have a strong background in programming  and extensive experience as a computer technician and IT technician. If you're interested in collaborating or learning more about my work, feel free to check out the links below or get in touch!
+I'm cyberthirty, Programmer, Security Analyst, Penetration Tester, Tutor &  Researcher from Zomba, Malawi. I specialize in cybersecurity and finance and have a strong background in programming  and extensive experience as a computer technician and IT technician. If you're interested in collaborating or learning more about my work, feel free to check out the links below or get in touch!
  
 ## Connect with Me / Support 🌐 :
 - **GitHub:** [Cyberthirty](https://github.com/cyberthirty)
