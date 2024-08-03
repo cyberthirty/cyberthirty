@@ -73,7 +73,7 @@ I'm cyberthirty, Programmer, Penetration Tester, Author &  Researcher.</h3><br>
   </a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
+  </a><br>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
@@ -88,15 +88,15 @@ I'm cyberthirty, Programmer, Penetration Tester, Author &  Researcher.</h3><br>
   </a>
 </p>
 
-<a href="https://github.com/cyberthirty"><img height="180em" width="80%" src="https://github-readme-stats.vercel.app/api?username=cyberthirty&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
-
+<div align="center">
+ 
 ## 🤳 Social Media
 [<img align="left" alt="cyberthirty30 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Cyber30 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/cyberthirty30
 [linkedin]: https://linkedin.com/in/cyber30
-
+</div>
 <!--
 **cyberthirty/cyberthirty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
