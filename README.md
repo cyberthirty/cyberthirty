@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucky </h1>
 <h3 align="center">I'm cyberthirty, Programmer, Penetration Tester, Author & Researcher.</h3><br>
 
-- 🔭 I’m currently working on **penetesting Book.**
+- 🔭 I’m currently working on **pentesting Book.**
 - 🌱 I’m currently learning **Android development**
 - 💬 Ask me about **hacking**, **Programming**
 
