@@ -44,9 +44,11 @@
   <a href="https://www.credly.com/users/lucky-ngabuh" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Credly-%23FF6F61?logo=credly&logoColor=white&style=for-the-badge" alt="Credly"/>
   </a>
+  <!--- 
   <a href="https://www.amazon.com/dp/B0000C4M4T" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Buy%20on%20Amazon-%23FF9900?logo=amazon&logoColor=white&style=for-the-badge" alt="Buy on Amazon"/>
-  </a>
+</a> 
+  ---->
 </p>
 
 <h3 align="center">Programming language</h3>
