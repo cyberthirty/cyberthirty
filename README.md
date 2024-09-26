@@ -7,27 +7,30 @@
 
 <div align="center">
 <h3>Connect:</h3>
+     
+  [![Twitter](https://img.shields.io/twitter/follow/cyberthirty30?logo=twitter&style=for-the-badge)](https://twitter.com/cyberthirty30)
+  [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/cyber30/)
+  [![Email](https://img.shields.io/badge/Email-%23D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:cyberluck@protonmail.com)
   
-  [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23000000?logo=tryhackme&logoColor=white&style=for-the-badge)](https://tryhackme.com/p/cyber30)
-  [![Hack The Box](https://img.shields.io/badge/HackTheBox-%23000000?logo=hackthebox&logoColor=white&style=for-the-badge)](https://app.hackthebox.com/profile/1751803)
-  [![Coursera](https://img.shields.io/badge/Coursera-%23000000?logo=coursera&logoColor=white&style=for-the-badge)](https://www.coursera.org/learner/lucky-ngabuh)
-  [![Credly](https://img.shields.io/badge/Credly-%23FF6F61?logo=credly&logoColor=white&style=for-the-badge)](https://www.credly.com/users/lucky-ngabuh) 
-
+  [![Blog](https://img.shields.io/badge/Blog-%23FF5722?logo=blogger&logoColor=white&style=for-the-badge)](https://cyberthirtysec.blogspot.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?logo=github&logoColor=white&style=for-the-badge)](https://cyberthirty.github.io/)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/cyber30)
+  [![Linktree](https://img.shields.io/badge/Linktree-%23334D92?logo=linktree&logoColor=white&style=for-the-badge)](https://linktr.ee/cyber30)
 
 <h3>Platforms & Profiles 🖥️</h3>
 
- [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23000000?logo=tryhackme&logoColor=white&style=for-the-badge)](https://tryhackme.com/p/cyber30)
-  [![Hack The Box](https://img.shields.io/badge/HackTheBox-%23000000?logo=hackthebox&logoColor=white&style=for-the-badge)](https://app.hackthebox.com/profile/1751803)
+  [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23000000?logo=tryhackme&logoColor=white&style=for-the-badge)](https://tryhackme.com/p/cyber30)
+  [![HackTheBox](https://img.shields.io/badge/HackTheBox-%23000000?logo=hackthebox&logoColor=white&style=for-the-badge)](https://app.hackthebox.com/profile/1751803)
   
-  [![Coursera](https://img.shields.io/badge/Coursera-%23000000?logo=coursera&logoColor=white&style=for-the-badge)](https://www.coursera.org/learner/lucky-ngabuh)
-  [![Credly](https://img.shields.io/badge/Credly-%23FF6F61?logo=credly&logoColor=white&style=for-the-badge)](https://www.credly.com/users/lucky-ngabuh) 
+  [![Coursera](https://img.shields.io/badge/Coursera-%23000000?logo=coursera&logoColor=white&style=for-the-badge)](https://www.coursera.org/learner/lucky-ngabuh/)
+  [![Credly](https://img.shields.io/badge/Credly-%23FF6F61?logo=credly&logoColor=white&style=for-the-badge)](https://www.credly.com/users/lucky-ngabuh)
   
   <!--- 
   <a href="https://www.amazon.com/dp/B0000C4M4T" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Buy%20on%20Amazon-%23FF9900?logo=amazon&logoColor=white&style=for-the-badge" alt="Buy on Amazon"/>
-</a> 
+  </a> 
   ---->
-</p>
+</div>
 
 <h3 align="center">Programming language</h3>
 <p align="center">
